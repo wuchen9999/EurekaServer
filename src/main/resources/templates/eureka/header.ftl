@@ -2,7 +2,7 @@
 <nav class="navbar navbar-default" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <span class="navbar-brand"><h1><b>启悦科技   服务注册中心</h1></span>
+      <span class="navbar-brand"><h1><b>启悦科技</b>   服务注册中心</h1></span>
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
